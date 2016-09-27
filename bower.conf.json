@@ -1,5 +1,5 @@
 {
-    "registryFile": "./bowerRepository.json",
+    "registryFile": "./bower-registry.json",
     "timeout": 144000,
     "server": {
         "port": 5678,
