@@ -1,0 +1,857 @@
+{
+    "ControlPlaneService": {
+        "name": "ControlPlaneService",
+        "url": "git://github.mlbam.net/fed-packages/ControlPlaneService.git",
+        "hits": 1
+    },
+    "Core-Game-Extender": {
+        "name": "Core-Game-Extender",
+        "url": "git://github.mlbam.net/fed-app-scoreboard/Core-Game-Extender.git",
+        "hits": 1
+    },
+    "Core-Scoreboard": {
+        "name": "Core-Scoreboard",
+        "url": "git://github.mlbam.net/fed-app-scoreboard/Core-Scoreboard.git"
+    },
+    "Core-Scoreboard-Controller": {
+        "name": "Core-Scoreboard-Controller",
+        "url": "git://github.mlbam.net/fed-app-scoreboard/Core-Scoreboard-Controller.git",
+        "hits": 1
+    },
+    "DataTransferObject": {
+        "name": "DataTransferObject",
+        "url": "git://github.mlbam.net/fed-packages/DataTransferObject.git"
+    },
+    "GameAlertsService": {
+        "name": "GameAlertsService",
+        "url": "git://github.mlbam.net/fed-packages/GameAlertsService.git"
+    },
+    "GameExtender": {
+        "name": "GameExtender",
+        "url": "git://github.mlbam.net/fed-app-scoreboard/GameExtender.git"
+    },
+    "GameModel": {
+        "name": "GameModel",
+        "url": "git://github.mlbam.net/fed-app-scoreboard/GameModel.git"
+    },
+    "GameTicker": {
+        "name": "GameTicker",
+        "url": "git://github.mlbam.net/fed-packages/GameTicker.git"
+    },
+    "GameTickerViewModel": {
+        "name": "GameTickerViewModel",
+        "url": "git://github.mlbam.net/fed-packages/GameTickerViewModel.git"
+    },
+    "InningPagination": {
+        "name": "InningPagination",
+        "url": "git://github.mlbam.net/fed-app-scoreboard/InningPagination.git"
+    },
+    "LiveLookin": {
+        "name": "LiveLookin",
+        "url": "git://github.mlbam.net/fed-packages/LiveLookin.git"
+    },
+    "LookinService": {
+        "name": "LookinService",
+        "url": "git://github.mlbam.net/fed-packages/LookinService.git"
+    },
+    "MasterScoreboard": {
+        "name": "MasterScoreboard",
+        "url": "git://github.mlbam.net/fed-packages/MasterScoreboard.git"
+    },
+    "MetaDataLoader": {
+        "name": "MetaDataLoader",
+        "url": "git://github.mlbam.net/fed-app-media-platform/MetaDataLoader.git"
+    },
+    "RequestPoller": {
+        "name": "RequestPoller",
+        "url": "git://github.mlbam.net/fed-packages/RequestPoller.git"
+    },
+    "Responsive-pattern-lab-overrides": {
+        "name": "Responsive-pattern-lab-overrides",
+        "url": "git://github.mlbam.net/fed-app-gamecenter/Responsive-pattern-lab-overrides.git"
+    },
+    "abstract-storage": {
+        "name": "abstract-storage",
+        "url": "git://github.mlbam.net/fed-packages/abstract-storage.git"
+    },
+    "account": {
+        "name": "account",
+        "url": "git://github.mlbam.net/fed-packages/account.git"
+    },
+    "accountUtilities": {
+        "name": "accountUtilities",
+        "url": "git://github.mlbam.net/fed-packages/accountUtilities.git"
+    },
+    "actionMessages": {
+        "name": "actionMessages",
+        "url": "git://github.mlbam.net/fed-packages/actionMessages.git"
+    },
+    "active-sponsorship": {
+        "name": "active-sponsorship",
+        "url": "git://github.mlbam.net/fed-packages/active-sponsorship.git"
+    },
+    "ad-block-detect": {
+        "name": "ad-block-detect",
+        "url": "git://github.mlbam.net/fed-packages/ad-block-detect.git"
+    },
+    "adobe_hls_shared_library": {
+        "name": "adobe_hls_shared_library",
+        "url": "git://github.mlbam.net/fed-flash/adobe_hls_shared_library.git"
+    },
+    "app-console": {
+        "name": "app-console",
+        "url": "git://github.mlbam.net/fed-packages/app-console.git"
+    },
+    "app-url": {
+        "name": "app-url",
+        "url": "git://github.mlbam.net/fed-packages/app-url.git"
+    },
+    "appendUniques": {
+        "name": "appendUniques",
+        "url": "git://github.mlbam.net/fed-packages/appendUniques.git"
+    },
+    "article-topic-nav": {
+        "name": "article-topic-nav",
+        "url": "git://github.mlbam.net/fed-packages/article-topic-nav.git"
+    },
+    "article-widgets": {
+        "name": "article-widgets",
+        "url": "git://github.mlbam.net/site-mlb/article-widgets.git"
+    },
+    "as3_fonts_shared_library": {
+        "name": "as3_fonts_shared_library",
+        "url": "git://github.mlbam.net/fed-flash/as3_fonts_shared_library.git"
+    },
+    "as3_shared_library": {
+        "name": "as3_shared_library",
+        "url": "git://github.mlbam.net/fed-flash/as3_shared_library.git"
+    },
+    "auditude": {
+        "name": "auditude",
+        "url": "git://github.mlbam.net/fed-app-mediaplayer/auditude.git"
+    },
+    "auth-media-gateway": {
+        "name": "auth-media-gateway",
+        "url": "git://github.mlbam.net/fed-app-mediaplayer/auth-media-gateway.git"
+    },
+    "bam-baseball-savant-charts": {
+        "name": "bam-baseball-savant-charts",
+        "url": "git://github.mlbam.net/site-baseball-savant/bam-baseball-savant-charts.git"
+    },
+    "bam-carousels": {
+        "name": "bam-carousels",
+        "url": "git://github.mlbam.net/fed-packages/bam-carousels.git"
+    },
+    "bam-handlebars-helpers": {
+        "name": "bam-handlebars-helpers",
+        "url": "git://github.mlbam.net/fed-basesite/bam-handlebars-helpers.git"
+    },
+    "bam-ko-mapping-plugin": {
+        "name": "bam-ko-mapping-plugin",
+        "url": "git://github.mlbam.net/fed-packages/bam-ko-mapping-plugin.git"
+    },
+    "bam-media-search": {
+        "name": "bam-media-search",
+        "url": "git://github.mlbam.net/fed-app-media-platform/bam-media-search.git"
+    },
+    "bam-moment-i18n": {
+        "name": "bam-moment-i18n",
+        "url": "git://github.mlbam.net/fed-basesite/bam-moment-i18n.git"
+    },
+    "bam-nhl-microsite-assets": {
+        "name": "bam-nhl-microsite-assets",
+        "url": "git://github.mlbam.net/site-nhl/bam-nhl-microsite-assets.git"
+    },
+    "bam-video-advertising": {
+        "name": "bam-video-advertising",
+        "url": "git://github.mlbam.net/fed-app-media-platform/bam-video-advertising.git"
+    },
+    "bam-video-players": {
+        "name": "bam-video-players",
+        "url": "git://github.mlbam.net/fed-app-media-platform/bam-video-players.git"
+    },
+    "bam-visibly": {
+        "name": "bam-visibly",
+        "url": "git://github.mlbam.net/fed-packages/bam-visibly.git"
+    },
+    "bam-web-media-font": {
+        "name": "bam-web-media-font",
+        "url": "git://github.mlbam.net/fed-app-media-platform/bam-web-media-font.git"
+    },
+    "bam-wiretap": {
+        "name": "bam-wiretap",
+        "url": "git://github.mlbam.net/fed-packages/bam-wiretap.git"
+    },
+    "bam.adobe-pass": {
+        "name": "bam.adobe-pass",
+        "url": "git://github.mlbam.net/fed-packages/adobePass.git"
+    },
+    "bam.cookies": {
+        "name": "bam.cookies",
+        "url": "git://github.mlbam.net/fed-packages/bam.cookies.git"
+    },
+    "bam.facebook": {
+        "name": "bam.facebook",
+        "url": "git://github.mlbam.net/fed-packages/bam.facebook.git"
+    },
+    "bam.requirejs.configs": {
+        "name": "bam.requirejs.configs",
+        "url": "git://github.mlbam.net/pvaca/bam.requirejs.configs.git"
+    },
+    "bam.session": {
+        "name": "bam.session",
+        "url": "git://github.mlbam.net/fed-packages/bam.session.git"
+    },
+    "bam.url": {
+        "name": "bam.url",
+        "url": "git://github.mlbam.net/fed-packages/bam.url.git"
+    },
+    "bam.xdomainrequest": {
+        "name": "bam.xdomainrequest",
+        "url": "git://github.mlbam.net/fed-packages/xdomainrequest.git"
+    },
+    "bandwagon": {
+        "name": "bandwagon",
+        "url": "git://github.mlbam.net/fed-app-media-platform/bandwagon.git"
+    },
+    "batcher": {
+        "name": "batcher",
+        "url": "git://github.mlbam.net/skabakof/batcher.git"
+    },
+    "bitly": {
+        "name": "bitly",
+        "url": "git://github.mlbam.net/fed-packages/bitly.git"
+    },
+    "cardList": {
+        "name": "cardList",
+        "url": "git://github.mlbam.net/fed-packages/cardList.git"
+    },
+    "checkExpired": {
+        "name": "checkExpired",
+        "url": "git://github.mlbam.net/fed-packages/checkExpired.git"
+    },
+    "chromecast-utils": {
+        "name": "chromecast-utils",
+        "url": "git://github.mlbam.net/fed-app-media-platform/chromecast-utils.git"
+    },
+    "client": {
+        "name": "client",
+        "url": "git://github.mlbam.net/fed-packages/client.git"
+    },
+    "clubProperties": {
+        "name": "clubProperties",
+        "url": "git://github.mlbam.net/fed-packages/clubProperties.git"
+    },
+    "component-register": {
+        "name": "component-register",
+        "url": "git://github.mlbam.net/fed-packages-ko-components/component-register.git"
+    },
+    "console.wrapper": {
+        "name": "console.wrapper",
+        "url": "git://github.mlbam.net/fed-app-media-platform/console.wrapper.git"
+    },
+    "data-fetcher": {
+        "name": "data-fetcher",
+        "url": "git://github.mlbam.net/fed-packages/data-fetcher.git"
+    },
+    "data-transformers": {
+        "name": "data-transformers",
+        "url": "git://github.mlbam.net/fed-packages/data-transformers.git"
+    },
+    "datasource-manager": {
+        "name": "datasource-manager",
+        "url": "git://github.mlbam.net/fed-packages/datasource-manager.git"
+    },
+    "dateDiff": {
+        "name": "dateDiff",
+        "url": "git://github.mlbam.net/fed-packages/dateDiff.git"
+    },
+    "dayInfo": {
+        "name": "dayInfo",
+        "url": "git://github.mlbam.net/fed-packages/dayInfo.git"
+    },
+    "dayOfTheWeek": {
+        "name": "dayOfTheWeek",
+        "url": "git://github.mlbam.net/fed-packages/dayOfTheWeek.git"
+    },
+    "deepObject": {
+        "name": "deepObject",
+        "url": "git://github.mlbam.net/fed-packages/deepObject.git"
+    },
+    "device": {
+        "name": "device",
+        "url": "git://github.mlbam.net/fed-packages/device.git"
+    },
+    "device-interaction": {
+        "name": "device-interaction",
+        "url": "git://github.mlbam.net/fed-packages/device-interaction"
+    },
+    "disk-storage": {
+        "name": "disk-storage",
+        "url": "git://github.mlbam.net/fed-packages/disk-storage.git"
+    },
+    "doubleclick": {
+        "name": "doubleclick",
+        "url": "git://github.mlbam.net/fed-packages/doubleclick.git"
+    },
+    "drawer": {
+        "name": "drawer",
+        "url": "git://github.mlbam.net/fed-packages/drawer.git"
+    },
+    "ensureArray": {
+        "name": "ensureArray",
+        "url": "git://github.mlbam.net/fed-packages/ensureArray.git"
+    },
+    "ensureDate": {
+        "name": "ensureDate",
+        "url": "git://github.mlbam.net/fed-packages/ensureDate.git"
+    },
+    "epg-guide": {
+        "name": "epg-guide",
+        "url": "git://github.mlbam.net/site-wwe/epg-guide.git"
+    },
+    "epg-slider": {
+        "name": "epg-slider",
+        "url": "git://github.mlbam.net/site-wwe/epg-widget.git"
+    },
+    "es6ish-class": {
+        "name": "es6ish-class",
+        "url": "git://github.mlbam.net/fed-packages/es6ish-class.git"
+    },
+    "events": {
+        "name": "events",
+        "url": "git://github.com/sakabako/paperboy"
+    },
+    "extant": {
+        "name": "extant",
+        "url": "git://github.mlbam.net/fed-packages/extant.git"
+    },
+    "external-embed": {
+        "name": "external-embed",
+        "url": "git://github.mlbam.net/fed-app-media-platform/external-embed.git"
+    },
+    "facebook": {
+        "name": "facebook",
+        "url": "git://github.mlbam.net/fed-packages/facebook.git"
+    },
+    "facebook-login": {
+        "name": "facebook-login",
+        "url": "git://github.mlbam.net/fed-packages/facebook-login.git"
+    },
+    "fed-component-lineups": {
+        "name": "fed-component-lineups",
+        "url": "git://github.mlbam.net/fed-packages-components/fed-component-lineups.git"
+    },
+    "fed-component-matchup": {
+        "name": "fed-component-matchup",
+        "url": "git://github.mlbam.net/fed-packages-components/fed-component-matchup.git"
+    },
+    "fed-component-nhl-mediawall": {
+        "name": "fed-component-nhl-mediawall",
+        "url": "git://github.mlbam.net/fed-packages-components/fed-component-nhl-mediawall.git"
+    },
+    "fed-component-nhl-player-stats": {
+        "name": "fed-component-nhl-player-stats",
+        "url": "git://github.mlbam.net/fed-packages-components/fed-component-nhl-player-stats.git"
+    },
+    "fed-component-nhl-roster": {
+        "name": "fed-component-nhl-roster",
+        "url": "git://github.mlbam.net/fed-packages-components/fed-component-nhl-roster.git"
+    },
+    "fed-component-nhl-scores": {
+        "name": "fed-component-nhl-scores",
+        "url": "git://github.mlbam.net/fed-packages-components/fed-component-nhl-scores.git"
+    },
+    "fed-component-nhl-standings": {
+        "name": "fed-component-nhl-standings",
+        "url": "git://github.mlbam.net/fed-packages-components/fed-component-nhl-standings.git"
+    },
+    "filteredList": {
+        "name": "filteredList",
+        "url": "git://github.mlbam.net/fed-packages/filteredList.git"
+    },
+    "flashobject": {
+        "name": "flashobject",
+        "url": "git://github.mlbam.net/fed-packages/flashobject.git"
+    },
+    "flashvideoplayer_shared_library": {
+        "name": "flashvideoplayer_shared_library",
+        "url": "git://github.mlbam.net/fed-flash/flashvideoplayer_shared_library.git"
+    },
+    "flipDate": {
+        "name": "flipDate",
+        "url": "git://github.mlbam.net/fed-packages/flipDate.git"
+    },
+    "floorDate": {
+        "name": "floorDate",
+        "url": "git://github.mlbam.net/fed-packages/floorDate.git"
+    },
+    "formatDate": {
+        "name": "formatDate",
+        "url": "git://github.mlbam.net/fed-packages/formatDate.git"
+    },
+    "frankenslide": {
+        "name": "frankenslide",
+        "url": "git://github.com/MajorLeagueBaseball/frankenslide.git"
+    },
+    "fvp": {
+        "name": "fvp",
+        "url": "git://github.mlbam.net/fed-flash/fvp.git"
+    },
+    "fvp-grunt-build": {
+        "name": "fvp-grunt-build",
+        "url": "git://github.mlbam.net/fed-flash/fvp-grunt-build.git"
+    },
+    "gameService": {
+        "name": "gameService",
+        "url": "git://github.mlbam.net/fed-packages/gameService.git"
+    },
+    "gameTickerAdService": {
+        "name": "gameTickerAdService",
+        "url": "git://github.mlbam.net/fed-packages/gameTickerAdService"
+    },
+    "gameday-data-patch": {
+        "name": "gameday-data-patch",
+        "url": "git://github.mlbam.net/fed-app-gameday/gameday-data-patch.git"
+    },
+    "gameday-device-interaction": {
+        "name": "gameday-device-interaction",
+        "url": "git://github.mlbam.net/fed-app-gameday/gameday-device-interaction.git"
+    },
+    "gameday-language": {
+        "name": "gameday-language",
+        "url": "git://github.mlbam.net/fed-app-gameday/gameday-language.git"
+    },
+    "gameday-resource-path": {
+        "name": "gameday-resource-path",
+        "url": "git://github.mlbam.net/fed-app-gameday/gameday-resource-path.git"
+    },
+    "gamedayLauncher": {
+        "name": "gamedayLauncher",
+        "url": "git://github.mlbam.net/fed-packages/gamedayLauncher.git"
+    },
+    "gid-decoder": {
+        "name": "gid-decoder",
+        "url": "git://github.mlbam.net/fed-packages/gid-decoder.git"
+    },
+    "gopro-app-ext": {
+        "name": "gopro-app-ext",
+        "url": "git://github.mlbam.net/site-gopro/gopro-app-ext.git"
+    },
+    "gopro-client-search": {
+        "name": "gopro-client-search",
+        "url": "git://github.mlbam.net/site-gopro/gopro-client-search.git"
+    },
+    "gopro-handlebars-helpers": {
+        "name": "gopro-handlebars-helpers",
+        "url": "git://github.mlbam.net/site-gopro/gopro-handlebars-helpers.git"
+    },
+    "gopro-livefyre-comments": {
+        "name": "gopro-livefyre-comments",
+        "url": "git://github.mlbam.net/site-gopro/gopro-livefyre-comments.git"
+    },
+    "gopro-recon": {
+        "name": "gopro-recon",
+        "url": "git://github.mlbam.net/site-gopro/recon.git"
+    },
+    "gopro-scroll-resize": {
+        "name": "gopro-scroll-resize",
+        "url": "git://github.mlbam.net/site-gopro/gopro-scroll-resize.git"
+    },
+    "gopro-templates": {
+        "name": "gopro-templates",
+        "url": "git://github.mlbam.net/site-gopro/gopro-templates.git"
+    },
+    "gopro-url-generator": {
+        "name": "gopro-url-generator",
+        "url": "git://github.mlbam.net/site-gopro/gopro-url-generator.git"
+    },
+    "gopro-utils": {
+        "name": "gopro-utils",
+        "url": "git://github.mlbam.net/site-gopro/gopro-utils.git"
+    },
+    "gopro-watchlist-handler": {
+        "name": "gopro-watchlist-handler",
+        "url": "git://github.mlbam.net/site-gopro/gopro-watchlist-handler.git"
+    },
+    "grid-calendar": {
+        "name": "grid-calendar",
+        "url": "git://github.mlbam.net/fed-packages-components/grid-calendar.git"
+    },
+    "headerAccount": {
+        "name": "headerAccount",
+        "url": "git://github.mlbam.net/fed-packages/headerAccount.git"
+    },
+    "headerMenus": {
+        "name": "headerMenus",
+        "url": "git://github.mlbam.net/fed-packages/headerMenus.git"
+    },
+    "headerSearch": {
+        "name": "headerSearch",
+        "url": "git://github.mlbam.net/fed-packages/headerSearch.git"
+    },
+    "hls_interface_library": {
+        "name": "hls_interface_library",
+        "url": "git://github.mlbam.net/fed-flash/hls_interface_library.git"
+    },
+    "image-loader": {
+        "name": "image-loader",
+        "url": "git://github.mlbam.net/fed-packages/image-loader.git"
+    },
+    "image-monitor": {
+        "name": "image-monitor",
+        "url": "git://github.mlbam.net/fed-packages/image-monitor.git"
+    },
+    "imageSelector": {
+        "name": "imageSelector",
+        "url": "git://github.com/sakabako/imageSelector"
+    },
+    "instagramFollow": {
+        "name": "instagramFollow",
+        "url": "git://github.mlbam.net/fed-packages/instagramFollow.git"
+    },
+    "instagramLike": {
+        "name": "instagramLike",
+        "url": "git://github.mlbam.net/fed-packages/instagramLike.git"
+    },
+    "instagramOauth": {
+        "name": "instagramOauth",
+        "url": "git://github.mlbam.net/fed-packages/instagramOauth.git"
+    },
+    "instagramSocial": {
+        "name": "instagramSocial",
+        "url": "git://github.mlbam.net/fed-packages/instagramSocial.git"
+    },
+    "jpath": {
+        "name": "jpath",
+        "url": "git://github.mlbam.net/fed-packages/jpath.git"
+    },
+    "jquery-bbq": {
+        "name": "jquery-bbq",
+        "url": "git://github.mlbam.net/fed-packages/jquery-bbq.git"
+    },
+    "jquery-validation": {
+        "name": "jquery-validation",
+        "url": "git://github.com/jzaefferer/jquery-validation"
+    },
+    "jquery.daypicker": {
+        "name": "jquery.daypicker",
+        "url": "git://github.mlbam.net/fed-packages/jquery.daypicker.git"
+    },
+    "jquery.jSlots": {
+        "name": "jquery.jSlots",
+        "url": "git://github.mlbam.net/fed-packages/jquery.jSlots.git"
+    },
+    "jqueryui-amd": {
+        "name": "jqueryui-amd",
+        "url": "git://github.com/itspolo/jqueryui-amd"
+    },
+    "jsoop": {
+        "name": "jsoop",
+        "url": "git://github.mlbam.net/fed-app-media-platform/jsoop.git"
+    },
+    "knockout-mapping-viewModel": {
+        "name": "knockout-mapping-viewModel",
+        "url": "git://github.mlbam.net/fed-app-scoreboard/knockout-mapping-viewModel.git"
+    },
+    "lazyLoadImages": {
+        "name": "lazyLoadImages",
+        "url": "git://github.mlbam.net/fed-packages/lazyLoadImages.git"
+    },
+    "linescore": {
+        "name": "linescore",
+        "url": "git://github.mlbam.net/fed-packages/linescore.git"
+    },
+    "link-formatter": {
+        "name": "link-formatter",
+        "url": "git://github.mlbam.net/fed-app-media-platform/link-formatter.git"
+    },
+    "link-generator": {
+        "name": "link-generator",
+        "url": "git://github.mlbam.net/site-nhl/link-generator.git"
+    },
+    "link-router": {
+        "name": "link-router",
+        "url": "git://github.mlbam.net/fed-packages/link-router.git"
+    },
+    "localize": {
+        "name": "localize",
+        "url": "git://github.mlbam.net/fed-packages/localize.git"
+    },
+    "logger": {
+        "name": "logger",
+        "url": "git://github.mlbam.net/fed-app-media-platform/logger.git"
+    },
+    "media-config": {
+        "name": "media-config",
+        "url": "git://github.mlbam.net/fed-app-media-platform/media-config.git"
+    },
+    "media-framework-service": {
+        "name": "media-framework-service",
+        "url": "git://github.mlbam.net/fed-app-media-platform/media-framework-service.git"
+    },
+    "mediaLauncher": {
+        "name": "mediaLauncher",
+        "url": "git://github.mlbam.net/fed-packages/mediaLauncher.git"
+    },
+    "mediaqueries": {
+        "name": "mediaqueries",
+        "url": "git://github.mlbam.net/fed-packages/mediaqueries.git"
+    },
+    "mediawall": {
+        "name": "mediawall",
+        "url": "git://github.mlbam.net/fed-packages/mediawall.git"
+    },
+    "mem-storage": {
+        "name": "mem-storage",
+        "url": "git://github.mlbam.net/fed-packages/mem-storage.git"
+    },
+    "message-service": {
+        "name": "message-service",
+        "url": "git://github.mlbam.net/fed-packages/message-service.git"
+    },
+    "message-widget": {
+        "name": "message-widget",
+        "url": "git://github.mlbam.net/fed-app-media-platform/message-widget.git"
+    },
+    "miniScoreboard": {
+        "name": "miniScoreboard",
+        "url": "git://github.mlbam.net/fed-packages/miniScoreboard.git"
+    },
+    "mlb-branding": {
+        "name": "mlb-branding",
+        "url": "git://github.mlbam.net/site-mlb/mlb-branding.git"
+    },
+    "mlb-footer": {
+        "name": "mlb-footer",
+        "url": "git://github.mlbam.net/site-mlb/mlb-footer.git"
+    },
+    "mlb-header": {
+        "name": "mlb-header",
+        "url": "git://github.mlbam.net/site-mlb/mlb-header.git"
+    },
+    "mp5-config": {
+        "name": "mp5-config",
+        "url": "git://github.mlbam.net/fed-app-media-platform/mp5-config.git"
+    },
+    "mustache-language": {
+        "name": "mustache-language",
+        "url": "git://github.mlbam.net/fed-packages/mustache-language.git"
+    },
+    "mustache-view-render": {
+        "name": "mustache-view-render",
+        "url": "git://github.mlbam.net/fed-packages/mustache-view-render.git"
+    },
+    "mvp": {
+        "name": "mvp",
+        "url": "git://github.mlbam.net/fed-flash/multiviewmediaplayer.git"
+    },
+    "mvp-grunt-build": {
+        "name": "mvp-grunt-build",
+        "url": "git://github.mlbam.net/fed-flash/mvp-grunt-build.git"
+    },
+    "nhl-club-scores": {
+        "name": "nhl-club-scores",
+        "url": "git://github.mlbam.net/site-nhl/nhl-club-scores.git"
+    },
+    "nhl-header": {
+        "name": "nhl-header",
+        "url": "git://github.mlbam.net/site-nhl/nhl-header.git"
+    },
+    "nhl-horizontal-scores": {
+        "name": "nhl-horizontal-scores",
+        "url": "git://github.mlbam.net/site-nhl/nhl-horizontal-scores.git"
+    },
+    "nhl-logos": {
+        "name": "nhl-logos",
+        "url": "git://github.mlbam.net/site-nhl/nhl-logos.git"
+    },
+    "nhl-scores": {
+        "name": "nhl-scores",
+        "url": "git://github.mlbam.net/site-nhl/nhl-scores.git"
+    },
+    "ordinal": {
+        "name": "ordinal",
+        "url": "git://github.mlbam.net/fed-packages/ordinal.git"
+    },
+    "pad": {
+        "name": "pad",
+        "url": "git://github.mlbam.net/fed-packages/pad.git"
+    },
+    "pageMeta": {
+        "name": "pageMeta",
+        "url": "git://github.mlbam.net/fed-packages/pageMeta.git"
+    },
+    "playoffs-schedule-modules-static": {
+        "name": "playoffs-schedule-modules-static",
+        "url": "git://github.mlbam.net/site-nhl/playoffs-schedule-modules-static.git"
+    },
+    "progress-bar": {
+        "name": "progress-bar",
+        "url": "git://github.mlbam.net/fed-packages/progress-bar.git"
+    },
+    "property-config": {
+        "name": "property-config",
+        "url": "git://github.mlbam.net/fed-app-media-platform/property-config.git"
+    },
+    "rehash": {
+        "name": "rehash",
+        "url": "git://github.mlbam.net/fed-packages/rehash.git"
+    },
+    "render-complete": {
+        "name": "render-complete",
+        "url": "git://github.mlbam.net/fed-packages/render-complete.git"
+    },
+    "repsonsive-instagram": {
+        "name": "repsonsive-instagram",
+        "url": "git://github.mlbam.net/fed-app-social/repsonsive-instagram.git"
+    },
+    "require-text-plugin": {
+        "name": "require-text-plugin",
+        "url": "git://github.com/requirejs/text"
+    },
+    "requirejs-better-errors": {
+        "name": "requirejs-better-errors",
+        "url": "git://github.mlbam.net/fed-packages/requirejs-better-errors.git"
+    },
+    "resource-path-manager": {
+        "name": "resource-path-manager",
+        "url": "git://github.mlbam.net/fed-packages/resource-path-manager.git"
+    },
+    "responsive-datatables": {
+        "name": "responsive-datatables",
+        "url": "git://github.mlbam.net/fed-packages/responsiveDatatables.git"
+    },
+    "responsive-game-feed": {
+        "name": "responsive-game-feed",
+        "url": "git://github.mlbam.net/fed-app-gameday/responsive-game-feed.git"
+    },
+    "responsive-images": {
+        "name": "responsive-images",
+        "url": "git://github.mlbam.net/fed-packages/responsive-images"
+    },
+    "responsive-pitch-fx": {
+        "name": "responsive-pitch-fx",
+        "url": "git://github.mlbam.net/fed-app-gameday/responsive-pitch-fx.git"
+    },
+    "responsiveTables": {
+        "name": "responsiveTables",
+        "url": "git://github.mlbam.net/fed-packages/responsiveTables.git"
+    },
+    "scoreboardViewModels": {
+        "name": "scoreboardViewModels",
+        "url": "git://github.mlbam.net/fed-packages/scoreboardViewModels.git"
+    },
+    "screen-orientation": {
+        "name": "screen-orientation",
+        "url": "git://github.mlbam.net/fed-packages/screen-orientation.git"
+    },
+    "seo-url": {
+        "name": "seo-url",
+        "url": "git://github.mlbam.net/fed-packages/seoUrl.git"
+    },
+    "sharing-widget": {
+        "name": "sharing-widget",
+        "url": "git://github.mlbam.net/fed-packages/sharing-widget.git"
+    },
+    "shims": {
+        "name": "shims",
+        "url": "git://github.mlbam.net/fed-packages/shims.git"
+    },
+    "simple-slider": {
+        "name": "simple-slider",
+        "url": "git://github.mlbam.net/snewsum/simple-slider.git"
+    },
+    "soap": {
+        "name": "soap",
+        "url": "git://github.mlbam.net/fed-packages/soap.git"
+    },
+    "social": {
+        "name": "social",
+        "url": "git://github.mlbam.net/fed-packages/social.git"
+    },
+    "sorterGenerator": {
+        "name": "sorterGenerator",
+        "url": "git://github.mlbam.net/fed-packages/sorterGenerator.git"
+    },
+    "ticketingEventFlow": {
+        "name": "ticketingEventFlow",
+        "url": "git://github.mlbam.net/fed-packages/ticketingEventFlow.git"
+    },
+    "ticketingService": {
+        "name": "ticketingService",
+        "url": "git://github.mlbam.net/fed-packages/ticketingService.git"
+    },
+    "tickets": {
+        "name": "tickets",
+        "url": "git://github.mlbam.net/fed-packages/tickets.git"
+    },
+    "toCamelCase": {
+        "name": "toCamelCase",
+        "url": "git://github.mlbam.net/fed-packages/toCamelCase.git"
+    },
+    "tracking": {
+        "name": "tracking",
+        "url": "git://github.mlbam.net/fed-packages/tracking.git"
+    },
+    "tracking-variables-helper": {
+        "name": "tracking-variables-helper",
+        "url": "git://github.mlbam.net/site-gopro/tracking-variables-helper.git"
+    },
+    "truncate": {
+        "name": "truncate",
+        "url": "git://github.mlbam.net/fed-packages/truncate.git"
+    },
+    "typeahead-search": {
+        "name": "typeahead-search",
+        "url": "git://github.mlbam.net/site-nhl/typeahead-search.git"
+    },
+    "url-hasher": {
+        "name": "url-hasher",
+        "url": "git://github.mlbam.net/fed-packages/url-hasher.git"
+    },
+    "video-app": {
+        "name": "video-app",
+        "url": "git://github.mlbam.net/fed-app-media-platform/video-app.git"
+    },
+    "video-app-ext": {
+        "name": "video-app-ext",
+        "url": "git://github.mlbam.net/whitelabel-video/video-app-ext.git"
+    },
+    "video-launcher": {
+        "name": "video-launcher",
+        "url": "git://github.mlbam.net/site-nhl/video-launcher.git"
+    },
+    "video-playback-manager": {
+        "name": "video-playback-manager",
+        "url": "git://github.mlbam.net/fed-app-media-platform/video-playback-manager.git"
+    },
+    "viewToggle": {
+        "name": "viewToggle",
+        "url": "git://github.mlbam.net/fed-packages/viewToggle.git"
+    },
+    "virtual-dom-el": {
+        "name": "virtual-dom-el",
+        "url": "git://github.mlbam.net/fed-packages-components/virtual-dom-el.git"
+    },
+    "virtual-dom-el-dev-utils": {
+        "name": "virtual-dom-el-dev-utils",
+        "url": "git://github.mlbam.net/fed-packages-components/virtual-dom-el-dev-utils.git"
+    },
+    "window-bridge": {
+        "name": "window-bridge",
+        "url": "git://github.mlbam.net/fed-packages/window-bridge.git"
+    },
+    "xml-doc": {
+        "name": "xml-doc",
+        "url": "git://github.mlbam.net/fed-packages/xml-doc.git"
+    },
+    "xml-to-json": {
+        "name": "xml-to-json",
+        "url": "git://github.mlbam.net/fed-packages/xml-to-json.git"
+    },
+    "xml2json": {
+        "name": "xml2json",
+        "url": "git://github.mlbam.net/fed-packages/xml2json.git"
+    }
+}
